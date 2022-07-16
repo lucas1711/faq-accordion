@@ -22,3 +22,8 @@ Faq com animação de acordeon feito com JavaScript
 ✔ CSS
 
 ✔ JAVASCRIPT
+
+<br>
+
+## Deploy🚀
+https://lucas1711.github.io/faq-accordion/
