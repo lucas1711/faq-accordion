@@ -1,0 +1,26 @@
+@media(max-width: 900px) {
+
+    main{
+        padding: 20px;
+    }
+
+    .acordeon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .acordeon .conteudo {
+
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        padding: 0;
+        flex-direction: column;
+        width: 80%;
+    }
+
+    .acordeon .imagem {
+        display: none;
+    }
+}
